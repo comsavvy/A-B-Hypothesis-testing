@@ -1,5 +1,4 @@
 # A-B-Hypothesis-testing
-## Analysis 
 ## Task 2.1 : Classic and sequential A/B testing analysis
 Perform data exploration to count unique values of categorical variables, make histogram, relational, and other necessary plots to help understand the data. For each of the plots you produce, write a description of what the plot shows in markdown cells.
 Perform hypothesis testing: apply the classical p-value based algorithm and the  sequential A/B testing algorithm for which a starter code is provided..
